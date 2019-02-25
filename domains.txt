@@ -10,3 +10,7 @@ rtb-eu.mfadsrvr.com
 clk.srv.stackadapt.com
 hello.lqm.io
 ad.piximedia.com
+trackquantx.adux.com
+static.adserver.pm
+api.publishers.adlive.io
+cdn.elasticad.net
