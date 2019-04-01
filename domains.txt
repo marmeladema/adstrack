@@ -15,3 +15,4 @@ static.adserver.pm
 api.publishers.adlive.io
 cdn.elasticad.net
 online-checks.co.uk
+amsung-super.com
